@@ -3,12 +3,63 @@
     <title>midnight thoughts</title>
     <link href="https://blog.ardeimon.com/feed.xml" rel="self" />
     <link href="https://blog.ardeimon.com" />
-    <updated>2026-08-21T11:23:28+08:00</updated>
+    <updated>2026-08-21T12:46:47+08:00</updated>
     <author>
         <name>Ardeimon</name>
     </author>
     <id>https://blog.ardeimon.com</id>
 
+    <entry>
+        <title>Commissions: how it went, tips</title>
+        <author>
+            <name>Ardeimon</name>
+        </author>
+        <link href="https://blog.ardeimon.com/commissions-how-it-went-tips/"/>
+        <id>https://blog.ardeimon.com/commissions-how-it-went-tips/</id>
+
+        <updated>2026-08-21T11:25:38+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I've had the pleasure of working with the wonderful Buch Dacanay for Craggenrock's music. He was referred to me by a fellow game dev friend who also had him as their game's&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I've had the pleasure of working with the wonderful Buch Dacanay for Craggenrock's music. He was referred to me by a fellow game dev friend who also had him as their game's main composer.</p>
+<h5>Some things that I think went right</h5>
+<p>Working in batches</p>
+<p> </p>
+<h5>Tips</h5>
+<h6>Prepare a document showing what you need and want. Include references.</h6>
+<p>Before I worked with Buch, I knew I needed something that will probably make it easier to get him onboard my vision for the music and will save us time with the back and forth of messages, so I made a document containing:</p>
+<ul>
+<li>Basic details about the game and the dev: its name, description, genre</li>
+<li>Links/URLs related to me or the game</li>
+<li>What I wanted the game's music to have<br>
+<ul>
+<li>Description of how they should "feel"/what they should make you feel</li>
+<li>What instruments I think would be great (e.g. in Craggenrock, I emphasized the use of a lot of percussive instruments)</li>
+</ul>
+</li>
+<li>A list of the pieces I need (e.g. 1x trailer music, 5x SFX) and their descriptions</li>
+<li>Specs of the pieces
+<ul>
+<li>How long they should be (seconds, minutes)</li>
+<li>If they are looping or not</li>
+<li>etc.</li>
+</ul>
+</li>
+<li><em><strong>REFERENCES</strong></em>, plenty of 'em</li>
+</ul>
+<p>I showed the doc to him and I think it served its purpose extremely well. I don't think I really needed to explain extensively about what I wanted, because it's all in the doc. If ever Buch needed something about the pieces, it's all there. If he ever needed to check what the game is, no need to scour the links because it's all in the doc. Maybe there were still a few times we had to discuss things together, but those were few and far between.</p>
+<p>I think this approach works amazingly well.</p>
+<p>Some of these will depend on the conditions both of you will have to agree on, especially the specs of what you'll get. If you need the "raw" files for the assets, you'll have to ask. Maybe you need a specific image resolution or it needs to be exported in a certain file format, ask about it. There's still stuff you need to discuss.</p>
+<p>Feel free to adapt it for when you're working with an artist, designer, etc. <em>It'd be best if you could also discuss things while viewing the doc together</em>, just to make sure you're both on the same page.</p>
+<p>And don't forget about the <strong>references</strong>. Those are probably the most important part of this tip. For something as subjective as feel, showing someone what you're trying to mean is an excellent way of getting that feeling across. Include as many as you can. Collect links, send recordings, whatever, just to show what you really want. With enough references, the chances of having to revise what you get shrinks.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Craggenrock tidbits</title>
         <author>
