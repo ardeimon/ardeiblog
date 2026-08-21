@@ -25,6 +25,18 @@
             "date_modified": "2026-08-21T12:46:47+08:00"
         },
         {
+            "id": "https://blog.ardeimon.com/working-solo/",
+            "url": "https://blog.ardeimon.com/working-solo/",
+            "title": "Working solo",
+            "author": {
+                "name": "Ardeimon"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-21T11:25:04+08:00",
+            "date_modified": "2026-08-21T13:17:22+08:00"
+        },
+        {
             "id": "https://blog.ardeimon.com/craggenrock-know-how/",
             "url": "https://blog.ardeimon.com/craggenrock-know-how/",
             "title": "Craggenrock tidbits",
