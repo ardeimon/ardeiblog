@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>midnight thoughts</title>
-    <link href="https://ardeimon.github.io/ardeiblog/feed.xml" rel="self" />
-    <link href="https://ardeimon.github.io/ardeiblog" />
+    <link href="https://blog.ardeimon.com/feed.xml" rel="self" />
+    <link href="https://blog.ardeimon.com" />
     <updated>2026-08-21T11:23:28+08:00</updated>
     <author>
         <name>Ardeimon</name>
     </author>
-    <id>https://ardeimon.github.io/ardeiblog</id>
+    <id>https://blog.ardeimon.com</id>
 
     <entry>
         <title>Craggenrock tidbits</title>
         <author>
             <name>Ardeimon</name>
         </author>
-        <link href="https://ardeimon.github.io/ardeiblog/craggenrock-know-how/"/>
-        <id>https://ardeimon.github.io/ardeiblog/craggenrock-know-how/</id>
+        <link href="https://blog.ardeimon.com/craggenrock-know-how/"/>
+        <id>https://blog.ardeimon.com/craggenrock-know-how/</id>
 
         <updated>2026-08-20T20:36:21+08:00</updated>
             <summary type="html">
