@@ -3,7 +3,7 @@
     <title>midnight thoughts</title>
     <link href="https://blog.ardeimon.com/feed.xml" rel="self" />
     <link href="https://blog.ardeimon.com" />
-    <updated>2026-08-27T23:37:35+08:00</updated>
+    <updated>2026-08-27T23:46:20+08:00</updated>
     <author>
         <name>Ardeimon</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>Ardeimon</name>
         </author>
-        <link href="https://blog.ardeimon.com/attending-events/"/>
-        <id>https://blog.ardeimon.com/attending-events/</id>
+        <link href="https://blog.ardeimon.com/attending-events-2023-onwards/"/>
+        <id>https://blog.ardeimon.com/attending-events-2023-onwards/</id>
             <category term="gamedev"/>
 
         <updated>2026-08-27T18:37:00+08:00</updated>
@@ -129,8 +129,8 @@
         <author>
             <name>Ardeimon</name>
         </author>
-        <link href="https://blog.ardeimon.com/craggenrock-know-how/"/>
-        <id>https://blog.ardeimon.com/craggenrock-know-how/</id>
+        <link href="https://blog.ardeimon.com/craggenrock-tidbits/"/>
+        <id>https://blog.ardeimon.com/craggenrock-tidbits/</id>
             <category term="gamedev"/>
             <category term="craggenrock"/>
 
