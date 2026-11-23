@@ -3,7 +3,7 @@
     <title>midnight thoughts</title>
     <link href="https://blog.ardeimon.com/feed.xml" rel="self" />
     <link href="https://blog.ardeimon.com" />
-    <updated>2026-11-23T14:09:43+08:00</updated>
+    <updated>2026-11-23T14:13:52+08:00</updated>
     <author>
         <name>Ardeimon</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>Ardeimon</name>
         </author>
-        <link href="https://blog.ardeimon.com/long-header/"/>
-        <id>https://blog.ardeimon.com/long-header/</id>
+        <link href="https://blog.ardeimon.com/craggenrock-postmortem/"/>
+        <id>https://blog.ardeimon.com/craggenrock-postmortem/</id>
         <media:content url="https://blog.ardeimon.com/media/posts/2/GameDev-Summit-MeettoMatch-cover.png" medium="image" />
             <category term="newbie"/>
             <category term="gamedev"/>
